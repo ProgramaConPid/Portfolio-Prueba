@@ -1,33 +1,33 @@
-# Portfolio-Prueba
+# Portfolio Performance Test
 
-Este proyecto es una prueba de portafolio personal desarrollado utilizando únicamente HTML y CSS. Su objetivo principal es presentar una estructura básica de un sitio web personal que muestre información relevante sobre mi como desarrollador, incluyendo mi presentación, proyectos y contacto.
+This project is a personal portfolio test developed using only HTML and CSS. Its main objective is to present a basic structure for a personal website that displays relevant information about me as a developer, including my presentation, projects, and contact information.
 
-## 📁 Estructura del Proyecto
-El repositorio está compuesto por los siguientes archivos principales:
+## 📁 Project Structure
+The repository consists of the following main files:
 
-- index.html: Archivo principal que contiene la estructura HTML del portafolio.
+- index.html: Main file containing the HTML structure of the portfolio.
 
-- style.css: Hoja de estilos utilizada para darle formato visual al contenido HTML.
+- style.css: Style sheet used to visually format HTML content.
 
-- Carpeta imgs/: Contiene las imágenes utilizadas en el portafolio, como fotografías o íconos.
+- imgs/ folder: Contains images used in the portfolio, such as photographs or icons.
 
-## 🎯 Objetivo
-El objetivo del proyecto es practicar la maquetación web utilizando HTML semántico y estilos CSS, enfocándose en el diseño, la estructura del contenido y la presentación de información de forma clara y estética.
+## 🎯 Objective
+The objective of the project is to practice web layout using semantic HTML and CSS styles, focusing on design, content structure, and the clear and aesthetic presentation of information.
 
-## 🧰 Tecnologías utilizadas
-HTML5: Para la estructura del contenido.
+## 🧰 Technologies used
+HTML5: For content structure.
 
-CSS3: Para el diseño visual y estilos del sitio.
+CSS3: For the visual design and styles of the site.
 
-📌 Características: 
+📌 Characteristics: 
 
-- Diseño simple y limpio.
+- Simple and clean design.
 
-- Secciones para presentación personal, proyectos y contacto.
+- Sections for personal presentation, projects and contact.
 
-- Código organizado y fácil de leer.
+- Organized and easy to read code.
 
-- Ideal como base para un portafolio más completo en el futuro.
+- Ideal as a basis for a more complete portfolio in the future.
 
-## 📝 Notas adicionales
-Este proyecto es parte de una práctica o prueba y no representa una versión final de un portafolio profesional. Está pensado como punto de partida para futuros desarrollos.
+## 📝 Additional notes
+This project is part of a practice or test and does not represent a final version of a professional portfolio. It is intended as a starting point for future development.
