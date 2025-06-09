@@ -11,7 +11,10 @@
   --black: #000;
 }
 
+/* -------------- */
 /* General Styles */
+/* -------------- */
+
 * {
   margin: 0;
   padding: 0;
@@ -470,6 +473,7 @@ textarea {
   }
 }
 
+/* Mobile Devices (480px) */
 @media (width <= 480px) {
   .navbar {
     text-align: center;

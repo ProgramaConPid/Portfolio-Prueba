@@ -1,6 +1,6 @@
 # Portfolio-Prueba
 
-Este proyecto es una prueba de portafolio personal desarrollado utilizando únicamente HTML y CSS. Su objetivo principal es presentar una estructura básica de un sitio web personal que muestre información relevante sobre un desarrollador, incluyendo su presentación, habilidades y proyectos.
+Este proyecto es una prueba de portafolio personal desarrollado utilizando únicamente HTML y CSS. Su objetivo principal es presentar una estructura básica de un sitio web personal que muestre información relevante sobre mi como desarrollador, incluyendo mi presentación, proyectos y contacto.
 
 ## 📁 Estructura del Proyecto
 El repositorio está compuesto por los siguientes archivos principales:
@@ -9,7 +9,7 @@ El repositorio está compuesto por los siguientes archivos principales:
 
 - style.css: Hoja de estilos utilizada para darle formato visual al contenido HTML.
 
-- Carpeta img/: Contiene las imágenes utilizadas en el portafolio, como fotografías o íconos.
+- Carpeta imgs/: Contiene las imágenes utilizadas en el portafolio, como fotografías o íconos.
 
 ## 🎯 Objetivo
 El objetivo del proyecto es practicar la maquetación web utilizando HTML semántico y estilos CSS, enfocándose en el diseño, la estructura del contenido y la presentación de información de forma clara y estética.
